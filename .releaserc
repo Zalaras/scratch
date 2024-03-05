@@ -1,0 +1,42 @@
+branches:
+  - "main"
+  - name: "develop"
+    prerelease: "rfv"
+  - "+([0-9])?(.{+([0-9]),x}).x"
+plugins:
+  - - "@semantic-release/commit-analyzer"
+    - releaseRules:
+      - type: refactor
+        release: patch
+  - - "@semantic-release/release-notes-generator"
+    - presetConfig:
+      types:
+      - type: refactor
+        section: "Code Refactors"
+        hidden: false
+  - - "@semantic-release/changelog"
+    - changelogFile: "CHANGELOG.md"
+  - - "@semantic-release/git"
+    - assets:
+      - "CHANGELOG.md"
+      - "VERSION"
+  - - "@codedependant/semantic-release-docker"
+    - dockerTags:
+      - "{{git_tag}}"
+      - "main"
+      dockerImage: "735283066345.dkr.ecr.us-east-2.amazonaws.com/spandigital/presidium-enterprise"
+      dockerFile: "build/docker/presidium.Dockerfile"
+  - - "@codedependant/semantic-release-docker"
+    - dockerTags:
+        - "{{git_tag}}"
+        - "main"
+      dockerImage: "735283066345.dkr.ecr.us-east-2.amazonaws.com/spandigital/presidium-migrate"
+      dockerFile: "build/docker/migrate.Dockerfile"
+  # Requires API token and syncing across repos might be an issue
+  # - - "semantic-release-jira-releases"
+  #   - projectId: "PRSDM"
+  #     jiraHost: "spandigital.atlassian.net"
+  #     ticketPrefixes:
+  #       - "PRSDM"
+  #     releaseNameTemplate: "v${version}"
+  #     releaseDescriptionTemplate: "Automated release with Semantic Release"
