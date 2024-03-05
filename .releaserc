@@ -20,18 +20,18 @@ plugins:
     - assets:
       - "CHANGELOG.md"
       - "VERSION"
-  - - "@codedependant/semantic-release-docker"
-    - dockerTags:
-      - "{{git_tag}}"
-      - "main"
-      dockerImage: "735283066345.dkr.ecr.us-east-2.amazonaws.com/spandigital/presidium-enterprise"
-      dockerFile: "build/docker/presidium.Dockerfile"
-  - - "@codedependant/semantic-release-docker"
-    - dockerTags:
-        - "{{git_tag}}"
-        - "main"
-      dockerImage: "735283066345.dkr.ecr.us-east-2.amazonaws.com/spandigital/presidium-migrate"
-      dockerFile: "build/docker/migrate.Dockerfile"
+  # - - "@codedependant/semantic-release-docker"
+  #   - dockerTags:
+  #     - "{{git_tag}}"
+  #     - "main"
+  #     dockerImage: "735283066345.dkr.ecr.us-east-2.amazonaws.com/spandigital/presidium-enterprise"
+  #     dockerFile: "build/docker/presidium.Dockerfile"
+  # - - "@codedependant/semantic-release-docker"
+  #   - dockerTags:
+  #       - "{{git_tag}}"
+  #       - "main"
+  #     dockerImage: "735283066345.dkr.ecr.us-east-2.amazonaws.com/spandigital/presidium-migrate"
+  #     dockerFile: "build/docker/migrate.Dockerfile"
   # Requires API token and syncing across repos might be an issue
   # - - "semantic-release-jira-releases"
   #   - projectId: "PRSDM"
