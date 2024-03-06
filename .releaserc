@@ -1,7 +1,7 @@
 branches:
   - "main"
   - name: "develop"
-    prerelease: "rfv"
+    channel: "rfv"
   - "+([0-9])?(.{+([0-9]),x}).x"
 plugins:
   - - "@semantic-release/commit-analyzer"
@@ -19,7 +19,7 @@ plugins:
   - - "@semantic-release/git"
     - assets:
       - "CHANGELOG.md"
-      - "VERSION.md"
+      - "VERSION"
   # - - "@codedependant/semantic-release-docker"
   #   - dockerTags:
   #     - "{{git_tag}}"
