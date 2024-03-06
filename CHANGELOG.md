@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/Zalaras/scratch/compare/v1.4.0...v1.5.0) (2024-03-06)
+
+
+### Features
+
+* update header ([ab262fd](https://github.com/Zalaras/scratch/commit/ab262fdbe06d6c5946d31b3059fff7af7ad5c16b))
+
 # [1.4.0](https://github.com/Zalaras/scratch/compare/v1.3.4...v1.4.0) (2024-03-06)
 
 
