@@ -27,3 +27,7 @@ func NewMessage() Message {
 func UpdateMessage(msg *Message, body string) {
 	msg.Body = body
 }
+
+func UpdateMsgHeader(msg *Message, header string) {
+	msg.Header = header
+}
