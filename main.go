@@ -23,3 +23,7 @@ func NewMessage() Message {
 		Body:   "Default",
 	}
 }
+
+func UpdateMessage(msg *Message, body string) {
+	msg.Body = body
+}
