@@ -8,5 +8,5 @@ func main() {
 }
 
 func newFunc() {
-	fmt.Println("new function")
+	fmt.Println("new print function")
 }
