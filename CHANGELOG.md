@@ -1,3 +1,10 @@
+# [1.1.0-rfv.4](https://github.com/Zalaras/scratch/compare/v1.1.0-rfv.3...v1.1.0-rfv.4) (2024-03-06)
+
+
+### Features
+
+* new message sys ([6304ba0](https://github.com/Zalaras/scratch/commit/6304ba0854e0648dc541a90b271162ce4ef6f7a4))
+
 # [1.1.0-rfv.3](https://github.com/Zalaras/scratch/compare/v1.1.0-rfv.2...v1.1.0-rfv.3) (2024-03-06)
 
 
