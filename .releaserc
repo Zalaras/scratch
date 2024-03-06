@@ -19,7 +19,7 @@ plugins:
   - - "@semantic-release/git"
     - assets:
       - "CHANGELOG.md"
-      - "VERSION"
+      - "VERSION.md"
   # - - "@codedependant/semantic-release-docker"
   #   - dockerTags:
   #     - "{{git_tag}}"
