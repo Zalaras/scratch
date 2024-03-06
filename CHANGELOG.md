@@ -1,3 +1,9 @@
+## [1.5.2](https://github.com/Zalaras/scratch/compare/v1.5.1...v1.5.2) (2024-03-06)
+
+
+### Bug Fixes
+
+* merge develop ([fb94886](https://github.com/Zalaras/scratch/commit/fb948866ad0554501a179e5f188e456541a26417))
 
 ## [1.5.1-rfv.3](https://github.com/Zalaras/scratch/compare/v1.5.1-rfv.2...v1.5.1-rfv.3) (2024-03-06)
 
