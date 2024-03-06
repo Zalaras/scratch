@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Zalaras/scratch/compare/v1.3.4...v1.4.0) (2024-03-06)
+
+
+### Features
+
+* update message ([d4ed549](https://github.com/Zalaras/scratch/commit/d4ed549e9ca5fe8a43c192836da4d1dcf912dbd5))
+
 ## [1.3.4](https://github.com/Zalaras/scratch/compare/v1.3.3...v1.3.4) (2024-03-06)
 
 ## [1.3.3](https://github.com/Zalaras/scratch/compare/v1.3.2...v1.3.3) (2024-03-06)
