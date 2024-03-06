@@ -10,3 +10,16 @@ func main() {
 func newFunc() {
 	fmt.Println("new print function")
 }
+
+type Message struct {
+	Header string
+	Body   string
+	Meta   string
+}
+
+func NewMessage() Message {
+	return Message{
+		Header: "Default",
+		Body:   "Default",
+	}
+}
