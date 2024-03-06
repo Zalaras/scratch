@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Zalaras/scratch/compare/v1.2.1...v1.3.0) (2024-03-06)
+
+
+### Features
+
+* new message sys ([6304ba0](https://github.com/Zalaras/scratch/commit/6304ba0854e0648dc541a90b271162ce4ef6f7a4))
+
 ## [1.2.1](https://github.com/Zalaras/scratch/compare/v1.2.0...v1.2.1) (2024-03-06)
 
 
