@@ -1,3 +1,10 @@
+## [1.5.1-rfv.2](https://github.com/Zalaras/scratch/compare/v1.5.1-rfv.1...v1.5.1-rfv.2) (2024-03-06)
+
+
+### Bug Fixes
+
+* hello world statement ([d8ea0f7](https://github.com/Zalaras/scratch/commit/d8ea0f797c45295947833f09756ab8368cb93b12))
+
 ## [1.5.1-rfv.1](https://github.com/Zalaras/scratch/compare/v1.5.0...v1.5.1-rfv.1) (2024-03-06)
 
 # [1.5.0](https://github.com/Zalaras/scratch/compare/v1.4.0...v1.5.0) (2024-03-06)
