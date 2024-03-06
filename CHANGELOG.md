@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/Zalaras/scratch/compare/v1.3.1...v1.3.2) (2024-03-06)
+
+
+### Bug Fixes
+
+* update version file ([540aa39](https://github.com/Zalaras/scratch/commit/540aa3949f5367a4341484b77c546455d0770469))
+
 ## [1.3.1](https://github.com/Zalaras/scratch/compare/v1.3.0...v1.3.1) (2024-03-06)
 
 # [1.3.0](https://github.com/Zalaras/scratch/compare/v1.2.1...v1.3.0) (2024-03-06)
