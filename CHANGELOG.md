@@ -13,6 +13,10 @@
 * text ([36c9b04](https://github.com/Zalaras/scratch/commit/36c9b042637f1b1b01fcc03caa01c2a1828322ef))
 
 # [1.2.0](https://github.com/Zalaras/scratch/compare/v1.1.0...v1.2.0) (2024-03-06)
+
+# [1.1.0-rfv.5](https://github.com/Zalaras/scratch/compare/v1.1.0-rfv.4...v1.1.0-rfv.5) (2024-03-06)
+
+
 # [1.1.0-rfv.4](https://github.com/Zalaras/scratch/compare/v1.1.0-rfv.3...v1.1.0-rfv.4) (2024-03-06)
 
 
