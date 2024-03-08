@@ -1,3 +1,12 @@
+## [1.5.3](https://github.com/Zalaras/scratch/compare/v1.5.2...v1.5.3) (2024-03-08)
+
+
+### Bug Fixes
+
+* develop tag issue ([3f992fa](https://github.com/Zalaras/scratch/commit/3f992faf600c4bb4d3ab1343238034dfb7aecc13))
+* hello world statement ([d8ea0f7](https://github.com/Zalaras/scratch/commit/d8ea0f797c45295947833f09756ab8368cb93b12))
+* new print func statement ([bbf5771](https://github.com/Zalaras/scratch/commit/bbf57717f3e76746438e93dc7bf96c93743a0d9b))
+
 ## [1.5.2](https://github.com/Zalaras/scratch/compare/v1.5.1...v1.5.2) (2024-03-06)
 ## [1.5.2-rfv.1](https://github.com/Zalaras/scratch/compare/v1.5.1...v1.5.2-rfv.1) (2024-03-08)
 
