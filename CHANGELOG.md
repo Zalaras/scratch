@@ -1,3 +1,10 @@
+# [1.6.0-rfv.2](https://github.com/Zalaras/scratch/compare/v1.6.0-rfv.1...v1.6.0-rfv.2) (2024-03-08)
+
+
+### Features
+
+* new ([42e44ad](https://github.com/Zalaras/scratch/commit/42e44adedec05834543a6c49291016b35a82ab35))
+
 # [1.6.0-rfv.1](https://github.com/Zalaras/scratch/compare/v1.5.6-rfv.1...v1.6.0-rfv.1) (2024-03-08)
 
 
