@@ -7,11 +7,21 @@
 * world ([49bd21b](https://github.com/Zalaras/scratch/commit/49bd21b4539062bcbdb2ab4fe6be09e251758c22))
 
 # [1.6.0](https://github.com/Zalaras/scratch/compare/v1.5.5...v1.6.0) (2024-03-08)
+# [1.6.0-rfv.2](https://github.com/Zalaras/scratch/compare/v1.6.0-rfv.1...v1.6.0-rfv.2) (2024-03-08)
 
 
 ### Features
 
 * changes: ([2691aa9](https://github.com/Zalaras/scratch/commit/2691aa98392961528a16195adecd1582c7c41da3))
+* new ([42e44ad](https://github.com/Zalaras/scratch/commit/42e44adedec05834543a6c49291016b35a82ab35))
+
+# [1.6.0-rfv.1](https://github.com/Zalaras/scratch/compare/v1.5.6-rfv.1...v1.6.0-rfv.1) (2024-03-08)
+
+
+### Features
+
+* soemthing else ([86f3811](https://github.com/Zalaras/scratch/commit/86f38112bf9d27c48f41c94d824e5bcdfcc6a1bd))
+
 ## [1.5.6-rfv.1](https://github.com/Zalaras/scratch/compare/v1.5.5...v1.5.6-rfv.1) (2024-03-08)
 
 
