@@ -1,3 +1,11 @@
+# [1.7.0](https://github.com/Zalaras/scratch/compare/v1.6.1...v1.7.0) (2024-03-08)
+
+
+### Features
+
+* new ([42e44ad](https://github.com/Zalaras/scratch/commit/42e44adedec05834543a6c49291016b35a82ab35))
+* soemthing else ([86f3811](https://github.com/Zalaras/scratch/commit/86f38112bf9d27c48f41c94d824e5bcdfcc6a1bd))
+
 ## [1.6.1](https://github.com/Zalaras/scratch/compare/v1.6.0...v1.6.1) (2024-03-08)
 
 
