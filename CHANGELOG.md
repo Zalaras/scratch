@@ -1,3 +1,10 @@
+## [1.5.4-rfv.1](https://github.com/Zalaras/scratch/compare/v1.5.3...v1.5.4-rfv.1) (2024-03-08)
+
+
+### Bug Fixes
+
+* newFunc ([1684623](https://github.com/Zalaras/scratch/commit/1684623950ca832ffa40e6691a046ecc8a875a96))
+
 ## [1.5.3](https://github.com/Zalaras/scratch/compare/v1.5.2...v1.5.3) (2024-03-08)
 
 
