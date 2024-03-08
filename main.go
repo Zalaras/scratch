@@ -19,8 +19,8 @@ type Message struct {
 
 func NewMessage() Message {
 	return Message{
-		Header: "Temp",
-		Body:   "Temp",
+		Header: "Temp2",
+		Body:   "Temp2",
 	}
 }
 
