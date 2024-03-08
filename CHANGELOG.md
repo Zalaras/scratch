@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/Zalaras/scratch/compare/v1.5.5...v1.6.0) (2024-03-08)
+
+
+### Features
+
+* changes: ([2691aa9](https://github.com/Zalaras/scratch/commit/2691aa98392961528a16195adecd1582c7c41da3))
+
 ## [1.5.5](https://github.com/Zalaras/scratch/compare/v1.5.4...v1.5.5) (2024-03-08)
 
 
