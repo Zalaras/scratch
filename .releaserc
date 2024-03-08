@@ -20,11 +20,6 @@ plugins:
     - assets:
       - "CHANGELOG.md"
       - "VERSION"
-  - - "@saithodev/semantic-release-backmerge"
-    - backmergeBranches:
-      - from: main
-        to: develop
-      message: "chore: merge main into develop after release [skip ci]"
   # - - "@codedependant/semantic-release-docker"
   #   - dockerTags:
   #     - "{{git_tag}}"
