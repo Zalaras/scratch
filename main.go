@@ -8,13 +8,17 @@ func main() {
 }
 
 func newFunc() {
-	fmt.Println("new print test!")
+	fmt.Println("new test!")
 }
 
 type Message struct {
 	Header string
 	Body   string
-	Meta   string
+	Meta   Meta
+}
+
+type Meta struct {
+	Data interface{}
 }
 
 func NewMessage() Message {
@@ -30,4 +34,8 @@ func UpdateMessage(msg *Message, body string) {
 
 func UpdateMsgHeader(msg *Message, header string) {
 	msg.Header = header
+}
+
+func AddMsgMeta(msg *Message, meta Meta) {
+	msg.Meta = meta
 }

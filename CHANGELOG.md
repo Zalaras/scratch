@@ -1,8 +1,31 @@
+
+# [1.8.0-rfv.3](https://github.com/Zalaras/scratch/compare/v1.8.0-rfv.2...v1.8.0-rfv.3) (2024-03-11)
+
+
+### Features
+
+* meta ([6138d4b](https://github.com/Zalaras/scratch/commit/6138d4b2a6f933eed6491eea6b2fa5617d5b6eb9))
+
+# [1.8.0-rfv.2](https://github.com/Zalaras/scratch/compare/v1.8.0-rfv.1...v1.8.0-rfv.2) (2024-03-11)
+
+
+### Bug Fixes
+
+* another another ([cf850f8](https://github.com/Zalaras/scratch/commit/cf850f80bd1b53cb647ea361aab37ada5211b0a3))
+
+# [1.8.0-rfv.1](https://github.com/Zalaras/scratch/compare/v1.7.1-rfv.1...v1.8.0-rfv.1) (2024-03-11)
 ## [1.7.1](https://github.com/Zalaras/scratch/compare/v1.7.0...v1.7.1) (2024-03-11)
 
 
 ### Bug Fixes
 
+* another ([b970b9d](https://github.com/Zalaras/scratch/commit/b970b9da30892f850f7404d9e5711b77b746d509))
+* something ([5c97a1b](https://github.com/Zalaras/scratch/commit/5c97a1bdeb0fa29dda8240a8696e3624d38d27fd))
+
+
+### Features
+
+* something else ([78f6937](https://github.com/Zalaras/scratch/commit/78f6937fd7b5b9f37cd8e8f661cbe63e9ad0c666))
 * test ([d0693cd](https://github.com/Zalaras/scratch/commit/d0693cd23632f719675acea32f4369b06cfcfd01))
 
 ## [1.7.1-rfv.1](https://github.com/Zalaras/scratch/compare/v1.7.0...v1.7.1-rfv.1) (2024-03-11)
