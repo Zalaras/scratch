@@ -1,3 +1,10 @@
+## [1.7.1-rfv.1](https://github.com/Zalaras/scratch/compare/v1.7.0...v1.7.1-rfv.1) (2024-03-11)
+
+
+### Bug Fixes
+
+* test ([d0693cd](https://github.com/Zalaras/scratch/commit/d0693cd23632f719675acea32f4369b06cfcfd01))
+
 # [1.7.0](https://github.com/Zalaras/scratch/compare/v1.6.1...v1.7.0) (2024-03-08)
 
 
