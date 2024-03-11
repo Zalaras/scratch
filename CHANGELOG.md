@@ -1,3 +1,9 @@
+# [1.8.0](https://github.com/Zalaras/scratch/compare/v1.7.1...v1.8.0) (2024-03-11)
+
+
+### Features
+
+* Develop ([#3](https://github.com/Zalaras/scratch/issues/3)) ([1770df0](https://github.com/Zalaras/scratch/commit/1770df040ab2f6f757bc06ac73a604346a57b7b3))
 
 # [1.8.0-rfv.4](https://github.com/Zalaras/scratch/compare/v1.8.0-rfv.3...v1.8.0-rfv.4) (2024-03-11)
 
