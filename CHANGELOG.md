@@ -1,3 +1,10 @@
+# [1.8.0-rfv.3](https://github.com/Zalaras/scratch/compare/v1.8.0-rfv.2...v1.8.0-rfv.3) (2024-03-11)
+
+
+### Features
+
+* meta ([6138d4b](https://github.com/Zalaras/scratch/commit/6138d4b2a6f933eed6491eea6b2fa5617d5b6eb9))
+
 # [1.8.0-rfv.2](https://github.com/Zalaras/scratch/compare/v1.8.0-rfv.1...v1.8.0-rfv.2) (2024-03-11)
 
 
