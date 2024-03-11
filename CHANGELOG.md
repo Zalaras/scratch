@@ -1,3 +1,16 @@
+# [1.8.0-rfv.1](https://github.com/Zalaras/scratch/compare/v1.7.1-rfv.1...v1.8.0-rfv.1) (2024-03-11)
+
+
+### Bug Fixes
+
+* another ([b970b9d](https://github.com/Zalaras/scratch/commit/b970b9da30892f850f7404d9e5711b77b746d509))
+* something ([5c97a1b](https://github.com/Zalaras/scratch/commit/5c97a1bdeb0fa29dda8240a8696e3624d38d27fd))
+
+
+### Features
+
+* something else ([78f6937](https://github.com/Zalaras/scratch/commit/78f6937fd7b5b9f37cd8e8f661cbe63e9ad0c666))
+
 ## [1.7.1-rfv.1](https://github.com/Zalaras/scratch/compare/v1.7.0...v1.7.1-rfv.1) (2024-03-11)
 
 
