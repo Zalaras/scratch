@@ -1,7 +1,7 @@
 const branch = process.env.TRAVIS_BRANCH
 
 const config = {
-  branches: ["main", { name: "develop", prerelease: "rfv" }, "+([0-9])?(.{+([0-9]),x}).x"],
+  branches: ["main", { name: "develop", prerelease: "rfv" }],
   plugins: [['@semantic-release/commit-analyzer',
   {
     releaseRules: [
