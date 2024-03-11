@@ -31,3 +31,7 @@ func UpdateMessage(msg *Message, body string) {
 func UpdateMsgHeader(msg *Message, header string) {
 	msg.Header = header
 }
+
+func AddMsgMeta(msg *Message, meta string) {
+	msg.Meta = meta
+}
