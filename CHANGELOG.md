@@ -1,3 +1,19 @@
+# [1.9.0](https://github.com/Zalaras/scratch/compare/v1.8.0...v1.9.0) (2024-03-12)
+
+
+### Bug Fixes
+
+* another ([b970b9d](https://github.com/Zalaras/scratch/commit/b970b9da30892f850f7404d9e5711b77b746d509))
+* another another ([cf850f8](https://github.com/Zalaras/scratch/commit/cf850f80bd1b53cb647ea361aab37ada5211b0a3))
+* something ([5c97a1b](https://github.com/Zalaras/scratch/commit/5c97a1bdeb0fa29dda8240a8696e3624d38d27fd))
+
+
+### Features
+
+* meta ([6138d4b](https://github.com/Zalaras/scratch/commit/6138d4b2a6f933eed6491eea6b2fa5617d5b6eb9))
+* new ([4ea63c4](https://github.com/Zalaras/scratch/commit/4ea63c4f3107409c88407cb1e7109209c1e5fd5b))
+* something else ([78f6937](https://github.com/Zalaras/scratch/commit/78f6937fd7b5b9f37cd8e8f661cbe63e9ad0c666))
+
 # [1.8.0](https://github.com/Zalaras/scratch/compare/v1.7.1...v1.8.0) (2024-03-11)
 
 
