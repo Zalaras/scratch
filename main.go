@@ -23,8 +23,8 @@ type Meta struct {
 
 func NewMessage() Message {
 	return Message{
-		Header: "Temp2",
-		Body:   "Temp2",
+		Header: "Temp23",
+		Body:   "Temp23",
 	}
 }
 
