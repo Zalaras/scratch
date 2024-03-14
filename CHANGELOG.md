@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/Zalaras/scratch/compare/v1.9.0...v1.10.0) (2024-03-14)
+
+
+### Features
+
+* merge develop ([#4](https://github.com/Zalaras/scratch/issues/4)) ([b2472b7](https://github.com/Zalaras/scratch/commit/b2472b74f69cc8f42e55808ca5ed08b63da2784d))
+
 # [1.10.0-rfv.1](https://github.com/Zalaras/scratch/compare/v1.9.0...v1.10.0-rfv.1) (2024-03-14)
 
 
