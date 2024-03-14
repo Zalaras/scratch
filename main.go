@@ -21,10 +21,16 @@ type Meta struct {
 	Data interface{}
 }
 
+type NewFeat struct {
+	ID   int
+	New  string
+	Feat string
+}
+
 func NewMessage() Message {
 	return Message{
-		Header: "Temp2",
-		Body:   "Temp2",
+		Header: "Temp23",
+		Body:   "Temp23",
 	}
 }
 
