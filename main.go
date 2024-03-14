@@ -22,6 +22,7 @@ type Meta struct {
 }
 
 type NewFeat struct {
+	ID   int
 	New  string
 	Feat string
 }
