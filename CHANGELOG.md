@@ -1,3 +1,16 @@
+# [1.10.0-rfv.1](https://github.com/Zalaras/scratch/compare/v1.9.0...v1.10.0-rfv.1) (2024-03-14)
+
+
+### Bug Fixes
+
+* 123 ([c2b2707](https://github.com/Zalaras/scratch/commit/c2b2707355c77a136463cc1cc0ce044f4d3c7f45))
+* add ID ([dc1a14a](https://github.com/Zalaras/scratch/commit/dc1a14ad7ea68cd8e9666237ca21c3551ace2ea5))
+
+
+### Features
+
+* NewFeat ([ab5acb8](https://github.com/Zalaras/scratch/commit/ab5acb85861e39e6411c676a24faa779bfbc7b3c))
+
 # [1.9.0](https://github.com/Zalaras/scratch/compare/v1.8.0...v1.9.0) (2024-03-12)
 
 
