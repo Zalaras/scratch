@@ -1,3 +1,15 @@
+# [1.10.0-rfv.2](https://github.com/Zalaras/scratch/compare/v1.10.0-rfv.1...v1.10.0-rfv.2) (2024-03-20)
+
+
+### Bug Fixes
+
+* add missing tags ([01e6c92](https://github.com/Zalaras/scratch/commit/01e6c9293c33fe5f4a7d36b816730f34b504de9f))
+
+
+### Features
+
+* tags ([d03a145](https://github.com/Zalaras/scratch/commit/d03a145b8b64509e43205820bf0ffc3bc8fba60c))
+
 # [1.10.0-rfv.1](https://github.com/Zalaras/scratch/compare/v1.9.0...v1.10.0-rfv.1) (2024-03-14)
 
 
