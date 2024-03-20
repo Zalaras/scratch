@@ -8,7 +8,7 @@ func main() {
 }
 
 func newFunc() {
-	fmt.Println("new test2!")
+	fmt.Println("new test22!")
 }
 
 type Message struct {
