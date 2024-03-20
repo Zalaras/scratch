@@ -22,9 +22,9 @@ type Meta struct {
 }
 
 type NewFeat struct {
-	ID   int
-	New  string
-	Feat string
+	ID   int    `json:"id"`
+	New  string `json:"new"`
+	Feat string `json:"feat"`
 }
 
 func NewMessage() Message {
