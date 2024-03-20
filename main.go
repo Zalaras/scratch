@@ -12,9 +12,9 @@ func newFunc() {
 }
 
 type Message struct {
-	Header string
-	Body   string
-	Meta   Meta
+	Header string `json:"header"`
+	Body   string `json:"body"`
+	Meta   Meta   `json:"meta"`
 }
 
 type Meta struct {
