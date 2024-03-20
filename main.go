@@ -23,6 +23,10 @@ type NewMessage2 struct {
 	Meta   Meta   `json:"meta"`
 }
 
+func SendMessage(msg Message) bool {
+	return true
+}
+
 type Meta struct {
 	Data interface{}
 }
