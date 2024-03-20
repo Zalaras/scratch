@@ -33,7 +33,7 @@ const config = {
   ],
 ]}
 
-if (config.branches.some(it => it === branch || (it.name === branch && !it.prerelease))) {
+if (branch == 'main') {
   config.plugins.push(['@semantic-release/changelog',
     {
       changelogFile: "CHANGELOG.md",
