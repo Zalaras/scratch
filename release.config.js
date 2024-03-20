@@ -46,25 +46,29 @@ if (branch == 'main') {
   ])
 }
 
-module.exports = config
+// config.plugins.push(["@codedependant/semantic-release-docker",
+//     {
+//       dockerTags: ["{{git_tag}}", "main"],
+//       dockerImage: "735283066345.dkr.ecr.us-east-2.amazonaws.com/spandigital/presidium-enterprise",
+//       dockerFile: "build/docker/presidium.Dockerfile",
+//     },
+//   ],
+//   ["@codedependant/semantic-release-docker",
+//     {
+//       dockerTags: ["{{git_tag}}", "main"],
+//       dockerImage: "735283066345.dkr.ecr.us-east-2.amazonaws.com/spandigital/presidium-migrate",
+//       dockerFile: "build/docker/migrate.Dockerfile",
+//     },
+//   ],
+//   // ["semantic-release-jira-releases",
+//   //   {
+//   //     projectId: "PRSDM",
+//   //     jiraHost: "spandigital.atlassian.net",
+//   //     ticketPrefixes: ["PRSDM"],
+//   //     releaseNameTemplate: "v${version}",
+//   //     releaseDescriptionTemplate: "Automated release with Semantic Release",
+//   //   },
+//   // ],
+// )
 
-  // - - "@codedependant/semantic-release-docker"
-  //   - dockerTags:
-  //     - "{{git_tag}}"
-  //     - "main"
-  //     dockerImage: "735283066345.dkr.ecr.us-east-2.amazonaws.com/spandigital/presidium-enterprise"
-  //     dockerFile: "build/docker/presidium.Dockerfile"
-  // - - "@codedependant/semantic-release-docker"
-  //   - dockerTags:
-  //       - "{{git_tag}}"
-  //       - "main"
-  //     dockerImage: "735283066345.dkr.ecr.us-east-2.amazonaws.com/spandigital/presidium-migrate"
-  //     dockerFile: "build/docker/migrate.Dockerfile"
-  // Requires API token and syncing across repos might be an issue
-  // - - "semantic-release-jira-releases"
-  //   - projectId: "PRSDM"
-  //     jiraHost: "spandigital.atlassian.net"
-  //     ticketPrefixes:
-  //       - "PRSDM"
-  //     releaseNameTemplate: "v${version}"
-  //     releaseDescriptionTemplate: "Automated release with Semantic Release"
+module.exports = config

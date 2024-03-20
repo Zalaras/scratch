@@ -3,18 +3,28 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("2 World!")
+	fmt.Println("2 World2!")
 	newFunc()
 }
 
 func newFunc() {
-	fmt.Println("new test!")
+	fmt.Println("new test22!")
 }
 
 type Message struct {
 	Header string `json:"header"`
 	Body   string `json:"body"`
 	Meta   Meta   `json:"meta"`
+}
+
+type NewMessage2 struct {
+	Header string `json:"header"`
+	Body   string `json:"body"`
+	Meta   Meta   `json:"meta"`
+}
+
+func SendMessage(msg Message) bool {
+	return true
 }
 
 type Meta struct {
